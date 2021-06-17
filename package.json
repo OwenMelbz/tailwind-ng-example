@@ -19,7 +19,7 @@
     "@angular/platform-browser": "~9.1.9",
     "@angular/platform-browser-dynamic": "~9.1.9",
     "@angular/router": "~9.1.9",
-    "postcss": "^7.0.32",
+    "postcss": "^7.0.36",
     "rxjs": "~6.5.4",
     "tailwindcss": "^1.4.6",
     "tslib": "^1.10.0",
